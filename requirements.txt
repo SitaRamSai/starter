@@ -16,9 +16,13 @@ Something original and has never been done
 
 Requirements:
   Create a simple web page
-    - Create github repo for this project
+    - Home, About, Contact
     - A blog about how technology can benefit organizations
-    - 
+    - commitizen: Joe will take care of configuration and breakdown
+  Longer-term
+    - Convert to TypeScript
+    - Express Server
+    - Postgres
 
 
 https://developforgood.org/

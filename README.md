@@ -32,4 +32,4 @@ Browser code: React or Next for frontend
 
 - Create a simple web page
   - A blog about how technology can benefit organizations
-  - aquire [developforgood](https://developforgood.org/) url for domain name
+  - acquire [developforgood](https://developforgood.org/) url for domain name

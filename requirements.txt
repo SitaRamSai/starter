@@ -16,13 +16,22 @@ Something original and has never been done
 
 Requirements:
   Create a simple web page
-    - Home, About, Contact
-    - A blog about how technology can benefit organizations
+    - Home Page (Rocky)
+      - Navigation
+        - Home
+        - About
+        - Contact
+        - Blog
+    - About
+    - Contact (Kat and Sebastian)
+    - A blog about how technology can benefit organizations (Jim)
     - commitizen: Joe will take care of configuration and breakdown
+    - Subscription input form (Rocky)
   Longer-term
     - Convert to TypeScript
-    - Express Server
-    - Postgres
+    - Create authentication and login functionality
+    - Django (Saurav, Jim and Kevin)
+    - Postgres (Saurav, Jim and Kevin)
 
 
 https://developforgood.org/

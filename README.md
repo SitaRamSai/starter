@@ -6,10 +6,6 @@
 
 - Something for social good
 
-  - raising money
-
-  - providing food
-
   - Providing developer work for Corporation/Nonprofits
 
   - Something that gives developers experience, collaboration, and opportunity without previous work experience - Includes self taught, bootcamps graduates, college graduates, and anybody else trying to learn to develop
@@ -26,7 +22,7 @@
 
 Database:
 
-Browser code: React or Next for frontend
+Browser code: React
 
 ## TODO
 

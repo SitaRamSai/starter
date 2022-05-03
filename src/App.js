@@ -8,6 +8,8 @@ import Contact from './components/Contact'
 import Blog from './components/Blog'
 import NoMatch from './components/NoMatch'
 
+import Home from './components/Home'
+
 const App = () => {
   return (
     <div>
